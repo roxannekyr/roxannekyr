@@ -7,7 +7,7 @@
 - <b>Data Analysis with Microsoft Excel & Power Query</b>
   - [Global Sales & Logistics KPI Dashboard](https://github.com/roxannekyr/Global-Sales-Logistics-KPI-Dashboard/blob/main/README.md)
 - <b>Data Analysis with SQL</b>
-  - [Business Valuation and Acquisition Analysis for a video club company](https://github.com/roxannekyr/SQL)
+  - [Business Valuation and Acquisition Analysis for a video club company](https://github.com/roxannekyr/Business-Valuation-and-Acquisition-Analysis-for-a-video-club-company/blob/main/README.md)
 - <b>Data Analysis with Python</b>
   - [Banking Customer Churn Prediction](https://github.com/roxannekyr/Python)
   - [Sales Analysis for a video games Business](https://github.com/roxannekyr/Python)
