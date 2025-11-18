@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analytics & BI Visualizations Projects:</h2>
 
 - <b>BI Visualizations with Microsoft Power BI</b>
-  - [Executive Sales & Performance Management Dashboard](https://github.com/roxannekyr/Microsoft_Power_BI)
+  - [Executive Sales & Performance Management Dashboard](https://github.com/roxannekyr/Executive-Sales-Performance-Management-Dashboard/blob/main/README.md)
 - <b>Data Analysis with Microsoft Excel & Power Query</b>
   - [Global Sales & Logistics KPI Dashboard](https://github.com/roxannekyr/Microsoft_Excel) 
 - <b>Data Analysis with SQL</b>
