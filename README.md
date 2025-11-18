@@ -9,7 +9,7 @@
 - <b>Data Analysis with SQL</b>
   - [Business Valuation and Acquisition Analysis for a video club company](https://github.com/roxannekyr/SQL)
 - <b>Data Analysis with Python</b>
-  - [Banking Customer Churn](https://github.com/roxannekyr/Python)
+  - [Banking Customer Churn Prediction](https://github.com/roxannekyr/Python)
   - [Sales Analysis for a video games Business](https://github.com/roxannekyr/Python)
 
 <h2> 🤳 Connect with me:</h2>
