@@ -4,8 +4,6 @@
 
 - <b>Visualizations with Power BI</b>
   - [Executive Sales & Performance Management Dashboard](https://github.com/roxannekyr/Executive-Sales-Performance-Management-Dashboard/blob/main/README.md)
-- <b>Data Analysis with Excel & Power Query</b>
-  - [Global Sales & Logistics KPI Dashboard](https://github.com/roxannekyr/Global-Sales-Logistics-KPI-Dashboard/blob/main/README.md)
 - <b>Data Analysis with SQL</b>
   - [Business Valuation and Acquisition Analysis](https://github.com/roxannekyr/Business-Valuation-and-Acquisition-Analysis-for-a-video-club-company/blob/main/README.md)
 - <b>Data Analysis with Python</b>
@@ -22,6 +20,9 @@
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+- <b>Data Analysis with Excel & Power Query</b>
+  - [Global Sales & Logistics KPI Dashboard](https://github.com/roxannekyr/Global-Sales-Logistics-KPI-Dashboard/blob/main/README.md)
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
