@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Data Analytics & BI Visualizations Projects:</h2>
 
-- <b>BI Visualizations with Microsoft Power BI</b>
+- <b>Visualizations with Power BI</b>
   - [Executive Sales & Performance Management Dashboard](https://github.com/roxannekyr/Executive-Sales-Performance-Management-Dashboard/blob/main/README.md)
-- <b>Data Analysis with Microsoft Excel & Power Query</b>
+- <b>Data Analysis with Excel & Power Query</b>
   - [Global Sales & Logistics KPI Dashboard](https://github.com/roxannekyr/Global-Sales-Logistics-KPI-Dashboard/blob/main/README.md)
 - <b>Data Analysis with SQL</b>
   - [Business Valuation and Acquisition Analysis for a video club company](https://github.com/roxannekyr/Business-Valuation-and-Acquisition-Analysis-for-a-video-club-company/blob/main/README.md)
