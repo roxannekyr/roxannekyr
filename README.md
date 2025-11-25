@@ -3,7 +3,6 @@
 <h2>👨‍💻 Data Analytics & BI Visualizations Projects:</h2>
   <b>Data Analysis with Excel & Power Query</b>
   - [US Labor Statistics Dashboard](https://github.com/roxannekyr/US Labor Statistics Dashboard/blob/main/README.md)
-  - [Executive Sales & Performance Management Dashboard](https://github.com/roxannekyr/Executive-Sales-Performance-Management-Dashboard/blob/main/README.md)
 - <b>Visualizations with Power BI</b>
   - [Executive Sales & Performance Management Dashboard](https://github.com/roxannekyr/Executive-Sales-Performance-Management-Dashboard/blob/main/README.md)
 - <b>Data Analysis with SQL</b>
