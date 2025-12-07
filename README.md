@@ -19,7 +19,7 @@
   <!--
   - [Video Games Sales Data Analysis](https://github.com/roxannekyr/Video-Games-Sales-Data-Analysis/blob/main/README.md)
   <!--
-  - [Forecasting Sales Demand with Machine Learning](https://github.com/roxannekyr/Forecasting-Supply-Demand-with-Machine-Learning)
+  - [Top-Down Budget Forecasting ML Model](https://github.com/roxannekyr/Forecasting-Supply-Demand-with-Machine-Learning)
   
 <h2> 🤳 Connect with me:</h2>
 
