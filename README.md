@@ -13,12 +13,14 @@
 - <b>Data Analysis with SQL</b>
   - [Business Valuation and Acquisition Analysis](https://github.com/roxannekyr/Business-Valuation-and-Acquisition-Analysis-for-a-video-club-company/blob/main/README.md)
 - <b>Data Analysis with Python</b>
-  - [Forecasting Sales Demand with Machine Learning](https://github.com/roxannekyr/Forecasting-Supply-Demand-with-Machine-Learning)
+  
   - [Bank Customer Churn Analysis & Feature Selection](https://github.com/roxannekyr/Banking-Customer-Churn-Prediction/blob/main/README.md)
 
   <!--
   - [Video Games Sales Data Analysis](https://github.com/roxannekyr/Video-Games-Sales-Data-Analysis/blob/main/README.md)
-
+  <!--
+  - [Forecasting Sales Demand with Machine Learning](https://github.com/roxannekyr/Forecasting-Supply-Demand-with-Machine-Learning)
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="RoxaniKyritsi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
