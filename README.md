@@ -13,7 +13,7 @@
 - <b>Data Analysis with SQL</b>
   - [Business Valuation and Acquisition Analysis](https://github.com/roxannekyr/Business-Valuation-and-Acquisition-Analysis-for-a-video-club-company/blob/main/README.md)
 - <b>Data Analysis with Python</b>
-  - [Top-Down Volumes Demand Planning Forecasting ML Model](https://github.com/roxannekyr/Top-Down-Budget-Forecasting-ML-Model/blob/main/README.md)
+  - [Top Volumes Demand Planning Forecasting ML Model](https://github.com/roxannekyr/Top-Down-Budget-Forecasting-ML-Model/blob/main/README.md)
   - [Bank Customer Churn Analysis & Feature Selection](https://github.com/roxannekyr/Banking-Customer-Churn-Prediction/blob/main/README.md)
   
   <!--
