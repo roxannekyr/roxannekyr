@@ -6,7 +6,7 @@
 
 - <b>Data Analysis with Excel & Power Query</b>
   - [US Labor Statistics Dashboard](https://github.com/roxannekyr/US-Labor-Statistics-Dashboard/blob/main/README.md)
-- <b>Visualizations with Power BI</b>
+- <b>Business Intelligence Visualizations with Power BI</b>
   - [Executive Sales & Performance Management Dashboard](https://github.com/roxannekyr/Executive-Sales-Performance-Management-Dashboard/blob/main/README.md)
   - [Executive Market Sales Dashboard](https://github.com/roxannekyr/Executive-Market-Sales-Dashboard/blob/main/README.md)
   - [Executive Procurement Dashboard](https://github.com/roxannekyr/Executive-Procurement-Dashboard/blob/main/README.md)
