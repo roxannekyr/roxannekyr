@@ -12,7 +12,7 @@
   - [Executive Procurement Dashboard](https://github.com/roxannekyr/Executive-Procurement-Dashboard/blob/main/README.md)
 - <b>Data Analysis with SQL</b>
   - [Business Valuation and Acquisition Analysis](https://github.com/roxannekyr/Business-Valuation-and-Acquisition-Analysis-for-a-video-club-company/blob/main/README.md)
-- <b>Data Analysis with Python</b>
+- <b>Data Science with Python</b>
   - [Bank Customer Churn Analysis & Feature Selection](https://github.com/roxannekyr/Banking-Customer-Churn-Prediction/blob/main/README.md)
   
   <!--
