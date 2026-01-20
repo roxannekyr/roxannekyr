@@ -8,8 +8,6 @@
   - [US Labor Statistics Dashboard](https://github.com/roxannekyr/US-Labor-Statistics-Dashboard/blob/main/README.md)
 - <b>Business Intelligence Visualizations with Power BI</b>
   - [Executive Sales & Performance Management Dashboard](https://github.com/roxannekyr/Executive-Sales-Performance-Management-Dashboard/blob/main/README.md)
-  - [Executive Market Sales Dashboard](https://github.com/roxannekyr/Executive-Market-Sales-Dashboard/blob/main/README.md)
-  - [Executive Procurement Dashboard](https://github.com/roxannekyr/Executive-Procurement-Dashboard/blob/main/README.md)
 - <b>Data Analysis with SQL</b>
   - [Business Valuation and Acquisition Analysis](https://github.com/roxannekyr/Business-Valuation-and-Acquisition-Analysis-for-a-video-club-company/blob/main/README.md)
 - <b>Data Science with Python</b>
@@ -19,7 +17,9 @@
   - [Video Games Sales Data Analysis](https://github.com/roxannekyr/Video-Games-Sales-Data-Analysis/blob/main/README.md)
   <!--
   - [Aggregated Volume Forecasting ML Model](https://github.com/roxannekyr/Top-Down-Budget-Forecasting-ML-Model/blob/main/README.md)
-  
+
+  - [Executive Market Sales Dashboard](https://github.com/roxannekyr/Executive-Market-Sales-Dashboard/blob/main/README.md)
+  - [Executive Procurement Dashboard](https://github.com/roxannekyr/Executive-Procurement-Dashboard/blob/main/README.md)
   
 <h2> 🤳 Connect with me:</h2>
 
