@@ -2,7 +2,7 @@
 
 <a href="https://github.com/roxannekyr">GitHub</a> • <a href="https://www.linkedin.com/in/roxani-kiritsi/">LinkedIn</a>
 
-<h2>👩‍💻 Data Analysis, Business Intelligence & Data Science Projects:</h2>
+<h2>👩‍💻 Data Analysis, BI & Data Science Projects:</h2>
 
 - <b>Data Analysis with Excel & Power Query</b>
   - [US Labor Statistics Dashboard](https://github.com/roxannekyr/US-Labor-Statistics-Dashboard/blob/main/README.md)
