@@ -12,6 +12,16 @@
   - [Business Valuation and Acquisition Analysis](https://github.com/roxannekyr/Business-Valuation-and-Acquisition-Analysis-for-a-video-club-company/blob/main/README.md)
 - <b>Data Science with Python</b>
   - [Bank Customer Churn Analysis & Feature Selection](https://github.com/roxannekyr/Banking-Customer-Churn-Prediction/blob/main/README.md)
+
+<br>
+
+![Views](https://komarev.com/ghpvc/?username=roxannekyr&color=blue&style=flat)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img alt="RoxaniKyritsi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/roxani-kiritsi/
   
   <!--
   - [Video Games Sales Data Analysis](https://github.com/roxannekyr/Video-Games-Sales-Data-Analysis/blob/main/README.md)
@@ -20,9 +30,5 @@
 
   - [Executive Market Sales Dashboard](https://github.com/roxannekyr/Executive-Market-Sales-Dashboard/blob/main/README.md)
   - [Executive Procurement Dashboard](https://github.com/roxannekyr/Executive-Procurement-Dashboard/blob/main/README.md)
-  
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="RoxaniKyritsi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/roxani-kiritsi/
