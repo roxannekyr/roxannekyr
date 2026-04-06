@@ -19,7 +19,7 @@
   
  
   <!--
-  - [Housing price prediction with advanced Supervised algorithms](https://github.com/roxannekyr/Housing-price-prediction-with-advanced-Supervised-algorithms/blob/main/README.md)
+  - [Housing price prediction with advanced SL algorithms](https://github.com/roxannekyr/Housing-price-prediction-with-advanced-Supervised-algorithms/blob/main/README.md)
 
   <!--
 
