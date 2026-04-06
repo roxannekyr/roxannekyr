@@ -17,12 +17,8 @@
   - [Greek Market housing price prediction](https://github.com/roxannekyr/Greek-Market-housing-price-prediction-with-linear-regression-logistic-classification/blob/main/README.md)
   - [NLP Embeddings Clustering](https://github.com/roxannekyr/nlp-embeddings-clustering)
   
- 
   <!--
   - [Housing price prediction with advanced SL algorithms](https://github.com/roxannekyr/Housing-price-prediction-with-advanced-Supervised-algorithms/blob/main/README.md)
-
-  <!--
-
 <br>
 
 ![Views](https://komarev.com/ghpvc/?username=roxannekyr&color=blue&style=flat)
@@ -32,9 +28,6 @@
 [<img alt="RoxaniKyritsi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/roxani-kiritsi/
-  
-  <!--
-  - [Executive Market Sales Dashboard](https://github.com/roxannekyr/Executive-Market-Sales-Dashboard/blob/main/README.md)
-  - [Executive Procurement Dashboard](https://github.com/roxannekyr/Executive-Procurement-Dashboard/blob/main/README.md)
+
 
 
