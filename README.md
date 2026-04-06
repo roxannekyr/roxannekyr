@@ -20,7 +20,7 @@
 
   - [Executive Customer Churn Satisfaction Dashboard](https://github.com/roxannekyr/Executive-Sales-Performance-Management-Dashboard/blob/main/README.md)
 <br>
-
+<!--
 ![Views](https://komarev.com/ghpvc/?username=roxannekyr&color=blue&style=flat)
 
 <h2>Connect with me:</h2>
