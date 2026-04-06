@@ -14,9 +14,11 @@
 - <b>Data Science with Python</b>
   - [Bank Customer Churn Analysis & Feature Selection](https://github.com/roxannekyr/Banking-Customer-Churn-Prediction/blob/main/README.md)
   - [Supermarket Customer Segmentation](https://github.com/roxannekyr/Supermarket-customer-segmentation/blob/main/README.md)
-  - [NLP Embeddings Clustering](https://github.com/roxannekyr/nlp-embeddings-clustering)
-   <!--
   - [Greek Market housing price prediction](https://github.com/roxannekyr/Greek-Market-housing-price-prediction-with-linear-regression-logistic-classification/blob/main/README.md)
+  - [NLP Embeddings Clustering](https://github.com/roxannekyr/nlp-embeddings-clustering)
+  
+ 
+  <!--
   - [Housing price prediction with advanced Supervised algorithms](https://github.com/roxannekyr/Housing-price-prediction-with-advanced-Supervised-algorithms/blob/main/README.md)
 
   <!--
