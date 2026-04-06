@@ -30,10 +30,6 @@
 [linkedin]: https://linkedin.com/in/roxani-kiritsi/
   
   <!--
-  - [Video Games Sales Data Analysis](https://github.com/roxannekyr/Video-Games-Sales-Data-Analysis/blob/main/README.md)
-  <!--
-  - [Aggregated Volume Forecasting ML Model](https://github.com/roxannekyr/Top-Down-Budget-Forecasting-ML-Model/blob/main/README.md)
-
   - [Executive Market Sales Dashboard](https://github.com/roxannekyr/Executive-Market-Sales-Dashboard/blob/main/README.md)
   - [Executive Procurement Dashboard](https://github.com/roxannekyr/Executive-Procurement-Dashboard/blob/main/README.md)
 
