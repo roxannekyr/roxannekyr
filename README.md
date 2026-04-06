@@ -12,7 +12,7 @@
   - [Business Valuation and Acquisition Analysis](https://github.com/roxannekyr/Business-Valuation-and-Acquisition-Analysis-for-a-video-club-company/blob/main/README.md)
 - <b>Data Science with Python</b>
   - [Bank Customer Churn Analysis & Feature Selection](https://github.com/roxannekyr/Banking-Customer-Churn-Prediction/blob/main/README.md)
-
+  - [Supermarket_Customer_Segmentation](https://github.com/roxannekyr/Banking-Customer-Churn-Prediction/blob/main/README.md)
 <br>
 
 ![Views](https://komarev.com/ghpvc/?username=roxannekyr&color=blue&style=flat)
