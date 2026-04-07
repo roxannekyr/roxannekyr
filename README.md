@@ -4,7 +4,7 @@
 
 <h2>Data Analysis, BI & Data Science Projects:</h2>
 
-- <b>Data Analysis with Excel & Power Query</b>
+- <b>Data Analysis with Excel</b>
   - [US Labor Statistics Dashboard](https://github.com/roxannekyr/US-Labor-Statistics-Dashboard/blob/main/README.md)
 - <b>Business Intelligence Visualizations with Power BI</b>
   - [Executive Customer Churn Satisfaction Dashboard](https://github.com/roxannekyr/Executive-Customer-Churn-Satisfaction-Dashboard/blob/main/README.md)
