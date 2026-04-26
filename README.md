@@ -2,6 +2,9 @@
 
 <a href="https://github.com/roxannekyr">GitHub</a> • <a href="https://www.linkedin.com/in/roxani-kiritsi/">LinkedIn</a>
 
+- <b>Data Analysis with SQL</b>
+  - [Business Valuation and Acquisition Analysis](https://github.com/roxannekyr/Business-Valuation-and-Acquisition-Analysis-for-a-video-club-company/blob/main/README.md)
+
 <h2>Data Analysis, BI & Data Science Projects:</h2>
 
 - <b>Data Analysis with Excel</b>
@@ -11,8 +14,6 @@
   - [Executive Sales & Performance Management PBI Dashboard](https://github.com/roxannekyr/Executive-Sales-Performance-Management-Dashboard/blob/main/README.md)
   - [Executive Sales & Customers Tableau Dashboard](https://github.com/roxannekyr/sales-and-customers-dashboard)
     
-- <b>Data Analysis with SQL</b>
-  - [Business Valuation and Acquisition Analysis](https://github.com/roxannekyr/Business-Valuation-and-Acquisition-Analysis-for-a-video-club-company/blob/main/README.md)
 - <b>Data Science & Predictive Analytics with Python</b>
   - [Bank Customer Churn Analysis & Feature Selection](https://github.com/roxannekyr/Banking-Customer-Churn-Prediction/blob/main/README.md)
   - [Supermarket Customer Segmentation](https://github.com/roxannekyr/Supermarket-customer-segmentation/blob/main/README.md)
