@@ -23,8 +23,7 @@
   - [NLP Airline Sentiment Classifier with ANN](https://github.com/roxannekyr/nlp-airline-sentiment-classifier-ann)
   - [NLP Airline Sentiment Classifier with RoBERTa](https://github.com/roxannekyr/nlp-airline-sentiment-classifier-roberta)
   
-  <!--
-  - [Housing price prediction with advanced SL algorithms](https://github.com/roxannekyr/Housing-price-prediction-with-advanced-Supervised-algorithms/blob/main/README.md)
+
 <br>
 
 ![Views](https://komarev.com/ghpvc/?username=roxannekyr&color=blue&style=flat)
@@ -35,5 +34,12 @@
 
 [linkedin]: https://linkedin.com/in/roxani-kiritsi/
 
+  <!--
+  - [Housing price prediction with advanced SL algorithms](https://github.com/roxannekyr/Housing-price-prediction-with-advanced-Supervised-algorithms/blob/main/README.md)
+-->
 
+
+  <!--
+
+-->
 
