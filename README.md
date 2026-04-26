@@ -21,7 +21,7 @@
   - [Greek Market housing price prediction](https://github.com/roxannekyr/Greek-Market-housing-price-prediction-with-linear-regression-logistic-classification/blob/main/README.md)
   - [NLP Embeddings Clustering](https://github.com/roxannekyr/nlp-embeddings-clustering)
   - [NLP Airline Sentiment Classifier with ANN](https://github.com/roxannekyr/nlp-airline-sentiment-classifier-ann)
-  - [NLP Airline Sentiment Classifier with RoBERTa](https://github.com/roxannekyr/nlp-airline-sentiment-classifier-roberta)
+  - [NLP Airline Sentiment Classifier with RoBERTa](https://github.com/roxannekyr/NLP-Airline-Sentiment-Classifier-with-RoBERTa)
   
 
 <br>
