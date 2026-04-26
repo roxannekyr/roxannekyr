@@ -6,8 +6,7 @@
 
 - <b>Data Analysis with Excel</b>
   - [US Labor Statistics Dashboard](https://github.com/roxannekyr/US-Labor-Statistics-Dashboard/blob/main/README.md)
-- <b>Business Intelligence Visualizations</b>
-- <b> Power BI</b>
+- <b>Business Intelligence Visualizations with Power BI & Tableau</b>
   - [Executive Customer Churn Satisfaction Dashboard](https://github.com/roxannekyr/Executive-Customer-Churn-Satisfaction-Dashboard/blob/main/README.md)
   - [Executive Sales & Performance Management Dashboard](https://github.com/roxannekyr/Executive-Sales-Performance-Management-Dashboard/blob/main/README.md)
     
@@ -31,8 +30,6 @@
 [<img alt="RoxaniKyritsi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/roxani-kiritsi/
-
-<!-- - <b> Tableau</b> 
 
 
 
