@@ -2,13 +2,14 @@
 
 <a href="https://github.com/roxannekyr">GitHub</a> • <a href="https://www.linkedin.com/in/roxani-kiritsi/">LinkedIn</a>
 
-- <b>Data Analysis with SQL</b>
-  - [Business Valuation and Acquisition Analysis](https://github.com/roxannekyr/Business-Valuation-and-Acquisition-Analysis-for-a-video-club-company/blob/main/README.md)
-
 <h2>Data Analysis, BI & Data Science Projects:</h2>
 
 - <b>Data Analysis with Excel</b>
   - [US Labor Statistics Dashboard](https://github.com/roxannekyr/US-Labor-Statistics-Dashboard/blob/main/README.md)
+
+- <b>Data Analysis with SQL</b>
+  - [Business Valuation and Acquisition Analysis](https://github.com/roxannekyr/Business-Valuation-and-Acquisition-Analysis-for-a-video-club-company/blob/main/README.md)
+    
 - <b>Business Intelligence Visualizations with Power BI & Tableau</b>
   - [Executive Customer Churn Satisfaction PBI Dashboard](https://github.com/roxannekyr/Executive-Customer-Churn-Satisfaction-Dashboard/blob/main/README.md)
   - [Executive Sales & Performance Management PBI Dashboard](https://github.com/roxannekyr/Executive-Sales-Performance-Management-Dashboard/blob/main/README.md)
