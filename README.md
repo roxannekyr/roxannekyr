@@ -25,9 +25,11 @@
   - [NLP Airline Sentiment Classifier with RoBERTa](https://github.com/roxannekyr/NLP-Airline-Sentiment-Classifier-with-RoBERTa)
   -->
 
+<!--
 - <b>End-to-End Data Pipeline Projects</b>
 - [Pagila Analytics Pipeline](https://github.com/roxannekyr/pagila-analytics-pipeline)
-  
+-->
+
 <br>
 
 ![Views](https://komarev.com/ghpvc/?username=roxannekyr&color=blue&style=flat)
