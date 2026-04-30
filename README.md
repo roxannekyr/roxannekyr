@@ -1,5 +1,5 @@
 <h1>Hi, I'm Roxani!</h1>
-
+ 
 <a href="https://github.com/roxannekyr">GitHub</a> • <a href="https://www.linkedin.com/in/roxani-kiritsi/">LinkedIn</a>
 
 <h2>Data Analysis, BI & Data Science Projects:</h2>
@@ -30,7 +30,7 @@
 -->
 
 <br>
-
+ 
 ![Views](https://komarev.com/ghpvc/?username=roxannekyr&color=blue&style=flat)
 
 <h2>Connect with me:</h2>
