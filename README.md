@@ -2,12 +2,12 @@
  
 <a href="https://github.com/roxannekyr">GitHub</a> • <a href="https://www.linkedin.com/in/roxani-kiritsi/">LinkedIn</a>
 
-<h2>Data Analysis, BI & Data Science Projects:</h2>
+<h2>Data Projects:</h2>
 
 - <b>Data Analysis with Excel</b>
   - [US Labor Statistics Dashboard](https://github.com/roxannekyr/US-Labor-Statistics-Dashboard/blob/main/README.md)
 
-- <b>Data Engineering & Analysis with SQL</b>
+- <b>Data Engineering & Data Analysis with SQL</b>
   - [Business Valuation and Acquisition Analysis](https://github.com/roxannekyr/Business-Valuation-and-Acquisition-Analysis-for-a-video-club-company/blob/main/README.md)
     
 - <b>Business Intelligence Visualizations with Power BI & Tableau</b>
