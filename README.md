@@ -12,7 +12,6 @@
  
 - <b>Business Intelligence with Power BI & Tableau</b>
   - [Executive Customer Churn Satisfaction PBI Dashboard](https://github.com/roxannekyr/Executive-Customer-Churn-Satisfaction-Dashboard/blob/main/README.md)
-  - [Executive Sales & Performance Management PBI Dashboard](https://github.com/roxannekyr/Executive-Sales-Performance-Management-Dashboard/blob/main/README.md)
   - [Executive Sales & Customers Tableau Dashboard](https://github.com/roxannekyr/sales-and-customers-dashboard)
     
 - <b>Data Analysis & AI with Python</b>
@@ -52,6 +51,10 @@
   - [Business Valuation and Acquisition Analysis](https://github.com/roxannekyr/Business-Valuation-and-Acquisition-Analysis-for-a-video-club-company/blob/main/README.md)
   -->
 
+  <!--
+  Needs fixing. No data files & .pbix file not supported due to size
+- [Executive Sales & Performance Management PBI Dashboard](https://github.com/roxannekyr/Executive-Sales-Performance-Management-Dashboard/blob/main/README.md)
+-->
 
 
 
