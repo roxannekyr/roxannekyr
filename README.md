@@ -14,7 +14,7 @@
   - [Executive Customer Churn Satisfaction PBI Dashboard](https://github.com/roxannekyr/Executive-Customer-Churn-Satisfaction-Dashboard/blob/main/README.md)
   - [Executive Sales & Customers Tableau Dashboard](https://github.com/roxannekyr/sales-and-customers-dashboard)
     
-- <b>Data Analysis & AI with Python</b>
+- <b>Data & AI with Python</b>
   - [Supermarket Customer Segmentation](https://github.com/roxannekyr/Supermarket-customer-segmentation/blob/main/README.md)
   - [Greek Market housing price prediction](https://github.com/roxannekyr/Greek-Market-housing-price-prediction-with-linear-regression-logistic-classification/blob/main/README.md)
   - [NLP Embeddings Clustering](https://github.com/roxannekyr/nlp-embeddings-clustering)
