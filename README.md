@@ -23,7 +23,7 @@
 - <b>Big Data with Pyspark & Spark SQL</b>
 - 
 -->
-- 
+
 <br>
 
 ![Views](https://komarev.com/ghpvc/?username=roxannekyr&color=blue&style=flat)
