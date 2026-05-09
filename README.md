@@ -19,10 +19,9 @@
   - [Greek Market housing price prediction](https://github.com/roxannekyr/Greek-Market-housing-price-prediction-with-linear-regression-logistic-classification/blob/main/README.md)
   - [NLP Embeddings Clustering](https://github.com/roxannekyr/nlp-embeddings-clustering)
   - [NLP Airline Sentiment Classifier with ANN](https://github.com/roxannekyr/nlp-airline-sentiment-classifier-ann)
-<!--
+
 - <b>Big Data with Pyspark & Spark SQL</b>
-- 
--->
+- [Big Data Analytics with PySpark & Apache Zeppelin](https://github.com/roxannekyr/zeppelin-pyspark-data-analysis)
 
 <br>
 
