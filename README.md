@@ -4,7 +4,7 @@
 
 <h2>Data & BI Projects</h2>
 
-- <b>Data Analysis & Visualizations with Excel</b>
+- <b>Data Analysis & Visualization with Excel</b>
   - [US Labor Statistics Dashboard](https://github.com/roxannekyr/US-Labor-Statistics-Dashboard/blob/main/README.md)
 
 - <b>Data Engineering & Data Analysis with SQL</b>
