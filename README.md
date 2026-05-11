@@ -8,7 +8,7 @@
   - [US Labor Statistics Dashboard](https://github.com/roxannekyr/US-Labor-Statistics-Dashboard/blob/main/README.md)
 
 - <b>Data Engineering & Data Analysis with SQL</b>
-  - [Data Warehouse with Medallion Architecture](https://github.com/roxannekyr/sql-data-warehouse-project/blob/main/README.md)
+  - [Data Warehouse & Analytics Engineering Project with Medallion Architecture](https://github.com/roxannekyr/sql-data-warehouse-project/blob/main/README.md)
  
 - <b>Business Intelligence with Power BI & Tableau</b>
   - [Executive Customer Churn Satisfaction PBI Dashboard](https://github.com/roxannekyr/Executive-Customer-Churn-Satisfaction-Dashboard/blob/main/README.md)
