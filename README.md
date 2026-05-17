@@ -18,6 +18,7 @@
 - <b>Data & AI with Python</b>
   - [Supermarket Customer Segmentation](https://github.com/roxannekyr/Supermarket-customer-segmentation/blob/main/README.md)
   - [Greek Market housing price prediction](https://github.com/roxannekyr/Greek-Market-housing-price-prediction-with-linear-regression-logistic-classification/blob/main/README.md)
+  - [Housing price prediction with advanced SL algorithms](https://github.com/roxannekyr/Housing-price-prediction-with-advanced-Supervised-algorithms/blob/main/README.md)
   - [NLP Embeddings Clustering](https://github.com/roxannekyr/nlp-embeddings-clustering)
   - [NLP Airline Sentiment Classifier with ANN](https://github.com/roxannekyr/nlp-airline-sentiment-classifier-ann)
 
@@ -41,10 +42,6 @@
 [<img alt="RoxaniKyritsi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/roxani-kiritsi/
--->
-
-  <!--
-  - [Housing price prediction with advanced SL algorithms](https://github.com/roxannekyr/Housing-price-prediction-with-advanced-Supervised-algorithms/blob/main/README.md)
 -->
 
   <!--
