@@ -26,11 +26,11 @@
 - <b>Big Data with Pyspark & Spark SQL</b>
 - [Big Data Analysis with PySpark & Apache Zeppelin](https://github.com/roxannekyr/zeppelin-pyspark-data-analysis)
 
-
+<!--
 <br>
 
 ![Views](https://komarev.com/ghpvc/?username=roxannekyr&color=blue&style=flat)
-
+-->
 
 
 
