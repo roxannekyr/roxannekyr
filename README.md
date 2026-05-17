@@ -15,7 +15,7 @@
   - [Executive Sales & Customers Tableau Dashboard](https://github.com/roxannekyr/sales-and-customers-dashboard)
 
 - <b>End-to-End Data Pipeline Projects</b>
-  - [Pagila Analytics Pipeline](https://github.com/roxannekyr/pagila-analytics-pipeline)
+  - [Pagila E2E Analytics Pipeline](https://github.com/roxannekyr/pagila-analytics-pipeline)
 
 - <b>Data & AI with Python</b>
   - [Supermarket Customer Segmentation](https://github.com/roxannekyr/Supermarket-customer-segmentation/blob/main/README.md)
