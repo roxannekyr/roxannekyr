@@ -9,13 +9,11 @@
 
 - <b>Data Engineering & Data Analysis with SQL</b>
   - [Data Warehouse & Analytics Engineering Project with Medallion Architecture](https://github.com/roxannekyr/sql-data-warehouse-project/blob/main/README.md)
+  - [Pagila E2E Analytics Pipeline](https://github.com/roxannekyr/pagila-analytics-pipeline)
  
 - <b>Business Intelligence with Power BI & Tableau</b>
   - [Executive Customer Churn Satisfaction PBI Dashboard](https://github.com/roxannekyr/Executive-Customer-Churn-Satisfaction-Dashboard/blob/main/README.md)
   - [Executive Sales & Customers Tableau Dashboard](https://github.com/roxannekyr/sales-and-customers-dashboard)
-
-- <b>End-to-End Data Pipeline Projects</b>
-  - [Pagila E2E Analytics Pipeline](https://github.com/roxannekyr/pagila-analytics-pipeline)
 
 - <b>Data & AI with Python</b>
   - [Supermarket Customer Segmentation](https://github.com/roxannekyr/Supermarket-customer-segmentation/blob/main/README.md)
