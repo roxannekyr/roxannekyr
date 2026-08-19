@@ -4,9 +4,6 @@
 
 <h2>Data & BI Projects</h2>
 
-- <b>Data Analysis with Excel</b>
-  - [US Labor Statistics Dashboard](https://github.com/roxannekyr/US-Labor-Statistics-Dashboard/blob/main/README.md)
-
 - <b>Data Engineering & Data Analysis with SQL</b>
   - [Data Warehouse & Analytics Engineering Project with Medallion Architecture](https://github.com/roxannekyr/sql-data-warehouse-project/blob/main/README.md)
   - [Pagila E2E Analytics Pipeline](https://github.com/roxannekyr/pagila-analytics-pipeline)
@@ -25,6 +22,14 @@
   - [Big Data Analysis with PySpark & Apache Zeppelin](https://github.com/roxannekyr/zeppelin-pyspark-data-analysis)
 
 <!--
+
+- <b>Data Analysis with Excel</b>
+  - [US Labor Statistics Dashboard](https://github.com/roxannekyr/US-Labor-Statistics-Dashboard/blob/main/README.md)
+
+-->
+
+<!--
+
 <br>
 
 ![Views](https://komarev.com/ghpvc/?username=roxannekyr&color=blue&style=flat)
