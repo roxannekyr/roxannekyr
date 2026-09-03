@@ -7,6 +7,9 @@
 - <b>Data Engineering & Data Analysis with SQL</b>
   - [Data Warehouse & Analytics Engineering Project with Medallion Architecture](https://github.com/roxannekyr/sql-data-warehouse-project/blob/main/README.md)
   - [Pagila E2E Analytics Pipeline](https://github.com/roxannekyr/pagila-analytics-pipeline)
+<!--
+  - [Data Lakehouse & Analytics Engineering Project with Medallion Architecture](https://github.com/roxannekyr/data-lakehouse-and-analytics-project)
+-->
  
 - <b>Business Intelligence with Power BI & Tableau</b>
   - [Executive Customer Churn Satisfaction PBI Dashboard](https://github.com/roxannekyr/Executive-Customer-Churn-Satisfaction-Dashboard/blob/main/README.md)
