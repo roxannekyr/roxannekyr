@@ -21,8 +21,11 @@
   - [NLP Embeddings Clustering](https://github.com/roxannekyr/nlp-embeddings-clustering)
   - [NLP Airline Sentiment Classifier with ANN](https://github.com/roxannekyr/nlp-airline-sentiment-classifier-ann)
 
+<!--
 - <b>Big Data with Pyspark & Spark SQL</b>
   - [Big Data Analysis with PySpark & Apache Zeppelin](https://github.com/roxannekyr/zeppelin-pyspark-data-analysis)
+-->
+
 
 <!--
 
