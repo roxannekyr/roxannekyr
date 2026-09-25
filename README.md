@@ -2,14 +2,12 @@
  
 <a href="https://github.com/roxannekyr">GitHub</a> • <a href="https://www.linkedin.com/in/roxani-kiritsi/">LinkedIn</a>
 
-<h2>Data & BI Projects</h2>
+<h2>Data, BI & AI Projects</h2>
 
 - <b>Data Engineering & Data Analysis with SQL</b>
   - [Data Warehouse & Analytics Engineering Project with Medallion Architecture](https://github.com/roxannekyr/sql-data-warehouse-project/blob/main/README.md)
   - [Pagila E2E Analytics Pipeline](https://github.com/roxannekyr/pagila-analytics-pipeline)
-<!--
-  - [Data Lakehouse & Analytics Engineering Project with Medallion Architecture](https://github.com/roxannekyr/data-lakehouse-and-analytics-project)
--->
+
  
 - <b>Business Intelligence with Power BI & Tableau</b>
   - [Executive Customer Churn Satisfaction PBI Dashboard](https://github.com/roxannekyr/Executive-Customer-Churn-Satisfaction-Dashboard/blob/main/README.md)
@@ -20,6 +18,15 @@
   - [Greek Market housing price prediction](https://github.com/roxannekyr/Greek-Market-housing-price-prediction-with-linear-regression-logistic-classification/blob/main/README.md)
   - [NLP Embeddings Clustering](https://github.com/roxannekyr/nlp-embeddings-clustering)
   - [NLP Airline Sentiment Classifier with ANN](https://github.com/roxannekyr/nlp-airline-sentiment-classifier-ann)
+
+
+
+
+
+<!--
+  - [Data Lakehouse & Analytics Engineering Project with Medallion Architecture](https://github.com/roxannekyr/data-lakehouse-and-analytics-project)
+-->
+
 
 <!--
 - <b>Big Data with Pyspark & Spark SQL</b>
