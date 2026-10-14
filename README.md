@@ -9,7 +9,7 @@
 <!--
   - [Data Lakehouse & Analytics Engineering Project with Medallion Architecture in Databricks](https://github.com/roxannekyr/databricks-lakehouse-medallion)
 -->
-  - [Pagila E2E Analytics Pipeline](https://github.com/roxannekyr/pagila-analytics-pipeline)
+   - [Pagila E2E Analytics Pipeline](https://github.com/roxannekyr/pagila-analytics-pipeline)
 
  
 - <b>Business Intelligence with Power BI & Tableau</b>
