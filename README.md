@@ -24,7 +24,7 @@
 
 
 <!--
-  - [Data Lakehouse & Analytics Engineering Project with Medallion Architecture](https://github.com/roxannekyr/data-lakehouse-and-analytics-project)
+  - [Data Lakehouse & Analytics Engineering Project with Medallion Architecture in Databricks](https://github.com/roxannekyr/data-lakehouse-and-analytics-project)
 -->
 
 
