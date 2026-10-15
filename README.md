@@ -6,7 +6,7 @@
 
 - <b>Data Engineering & Data Analysis</b>
   - [Data Warehouse & Analytics Engineering Project with Medallion Architecture with SQL Server](https://github.com/roxannekyr/sql-data-warehouse-project/blob/main/README.md)
-  - [Pagila E2E Analytics Pipeline](https://github.com/roxannekyr/pagila-analytics-pipeline)
+  - [Pagila E2E cdc-based Analytics Pipeline on Google Cloud](https://github.com/roxannekyr/pagila-analytics-pipeline)
 <!--
   - [Data Lakehouse & Analytics Engineering Project with Medallion Architecture in Databricks](https://github.com/roxannekyr/databricks-lakehouse-medallion)
 -->
