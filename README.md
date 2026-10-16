@@ -10,6 +10,7 @@
   - [Pagila E2E cdc-based Analytics Pipeline on Google Cloud](https://github.com/roxannekyr/pagila-analytics-pipeline)
 <!--
   - [Data Lakehouse & Analytics Engineering Project with Medallion Architecture in Databricks](https://github.com/roxannekyr/databricks-lakehouse-medallion)
+
 -->
 
 
