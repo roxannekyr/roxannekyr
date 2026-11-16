@@ -17,9 +17,7 @@
  
 - <b>Business Intelligence with Power BI & Tableau</b>
   - [Executive Customer Churn Satisfaction PBI Dashboard](https://github.com/roxannekyr/Executive-Customer-Churn-Satisfaction-Dashboard/blob/main/README.md)
-  <!--
   - [Executive Sales PBI Dashboard]((https://github.com/roxannekyr/sales-pbi-dashboard))
-  -->
   - [Executive Sales & Customers Tableau Dashboard](https://github.com/roxannekyr/sales-and-customers-dashboard)
 
 - <b>Data & AI with Python</b>
